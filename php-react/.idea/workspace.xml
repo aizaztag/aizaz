@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1508d3fd-6bf6-4f17-b859-a0df02cb1a61" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="ProjectId" id="1XeYnquZKzFkHwtafRJgWh17pXR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/code/askfortask-backend" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2019.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\php-react" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1508d3fd-6bf6-4f17-b859-a0df02cb1a61" name="Default Changelist" comment="" />
+      <created>1581398074774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581398074774</updated>
+      <workItem from="1581398076873" duration="861000" />
+      <workItem from="1581408224244" duration="4489000" />
+      <workItem from="1581482303547" duration="18515000" />
+      <workItem from="1581562038334" duration="3362000" />
+      <workItem from="1581650825968" duration="9553000" />
+      <workItem from="1581716030520" duration="12115000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="423" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581667130100">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="423" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1581667130100" />
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581410660295">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1581410660295" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1581745343600">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581745343600" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1581411156593">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581411156593" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1581668431492">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1581668431492" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1581716394314">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581716394314" />
+    <state x="480" y="29" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581412251368">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="480" y="29" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1581412251368" />
+    <state x="379" y="96" width="607" height="536" key="find.popup" timestamp="1581742921693">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="96" width="607" height="536" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1581742921693" />
+    <state x="549" y="230" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1581573006894">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="549" y="230" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.0.1366.728@0.0.1366.728" timestamp="1581573006894" />
+    <state x="324" y="90" width="700" height="530" key="recent.locations.popup" timestamp="1581734232741">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="324" y="90" width="700" height="530" key="recent.locations.popup/0.0.1366.728@0.0.1366.728" timestamp="1581734232741" />
+    <state x="339" y="17" width="672" height="676" key="search.everywhere.popup" timestamp="1581667143082">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="17" width="672" height="676" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1581667143082" />
+  </component>
+</project>
